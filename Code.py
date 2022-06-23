@@ -84,5 +84,12 @@ class Person:
         global age
         age= age+1
 
+        Day-5
+        
+         n = int(input())
+    for i in range(1, 11):
+        print(n, 'x', i, '=', n*i)
+        
+        Day-6
 
     
