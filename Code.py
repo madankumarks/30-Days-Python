@@ -91,5 +91,32 @@ class Person:
         print(n, 'x', i, '=', n*i)
         
         Day-6
+        
+        t = int(input())
+for i in range(t):
+    s = str(input())
+    print (s[::2], s[1::2])
+    
+    Day-7
+    import math
+import os
+import random
+import re
+import sys
+
+
+
+if __name__ == '__main__':
+    n = int(input())
+
+    arr = list(map(int, input().rstrip().split()))
+
+    print (*arr[::-1], sep=' ')
+    
+    DAy-8
+    
+    
+    
+    
 
     
